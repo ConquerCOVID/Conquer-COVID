@@ -70,7 +70,7 @@ An app that provides nearby COVID testing locations and relevant localized COVID
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/69caFnk" width=600>
+<img src="https://imgur.com/69caFnk.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
