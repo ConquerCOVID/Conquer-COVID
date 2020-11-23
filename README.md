@@ -77,10 +77,27 @@ An app that provides nearby COVID testing locations and relevant localized COVID
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+
+| Property    | Type        | Description |
+| ----------- | ----------- | ----------- |
+| Latitude    | String      | Current user location latitude |
+| Longitude   | String      | Current user location longitude|
+| COVID Testing Centers| Array of Strings | List of testing centers|
+| Testing Center Details | Dictionary| Info about testing center |
+| Current County | String | County of the user's location |
+| County COVID Updates | Dictionary | News updates from county |
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+* Map Screen 
+    * (Read/GET) Get the map 
+    * (Read/GET) Get the COVID testing centers nearby 
+* Testing Center List Screen
+    * (Read/GET) Get the details of COVID testing centers
+* COVID Info Screen 
+    * (Read/GET) Get the county based on latitude/longitude
+    * (Read/GET)Get the COVID info for county
+* County updates screen 
+    * (Read/GET) Get county news updates
