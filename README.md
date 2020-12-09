@@ -75,7 +75,7 @@ An app that provides nearby COVID testing locations and relevant localized COVID
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
-<img src="http://g.recordit.co/9UBfbGIccx.gif" width=300>
+<img src="http://g.recordit.co/bE7uPLuGA7.gif" width=300>
 
 ## Schema 
 
